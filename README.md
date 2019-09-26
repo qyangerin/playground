@@ -1,4 +1,4 @@
-# Erin is smart
+# cs207 playground
 
 
 
